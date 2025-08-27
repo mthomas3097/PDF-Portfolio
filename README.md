@@ -9,12 +9,8 @@ I’m a data-driven professional with logistics and operations experience transi
 ## Capstone Project — SpaceX Launch Success Prediction
 **Abstract:** Analyzed historical SpaceX Falcon 9 launch data to predict first-stage landing success. Used SQL, Python, and ML to explore how payload mass, orbit, and launch site affect outcomes.
 
-- **Source Code:** [GitHub Repo](https://github.com/yourusername/spacex-capstone) <!-- replace -->
+- **Source Code:** [GitHub Repo]([https://github.com/yourusername/spacex-capstone](https://github.com/mthomas3097/Data-Science-In-Action-)) <!-- replace -->
 - **Key Findings:** Models reached ~83% accuracy; payload mass & orbit strongly influenced success; KSC LC-39A showed high success rates.
-- **Visuals:**
-  - ![Launch Sites Map](images/launch_sites_map.png)
-  - ![Payload vs Success](images/payload_success.png)
-  - ![Dashboard Sample](images/dashboard.png)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/yourprofile/  <!-- replace -->
